@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;coronaConCiruclo&apos; to &apos;coronaConCirculo&apos;&#x0D;&#x0A;- Original project: &apos;Corona Circular&apos;&#x0D;&#x0A;- Original element: &apos;Corona Circular/src/coronaConCiruclo&apos;&#x0D;&#x0A;- Renamed element: &apos;Corona Circular/src/coronaConCirculo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;coronaConCiruclo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;coronaConCiruclo" name="coronaConCirculo" qualified="false" references="true" stamp="1629331842044" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="monedero.Monedero"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="rectangulo.Rectangulo"/>
+    <fullyQualifiedTypeName name="contador.Contador"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Parameterized.Parameters"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ICMPEQ"/>
+    <fullyQualifiedTypeName name="tragaMonedas.TragaMonedas"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.tools.SysPropsDumper"/>
+    <fullyQualifiedTypeName name="palindromos.Palindromo"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ponyexpress.Station"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Parameterized"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+</qualifiedTypeNameHistroy>
