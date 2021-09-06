@@ -4,15 +4,15 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class DiaTest {
+public class DiaDeLaSemanaTest {
     @Test
     public void test() {
-        Dia x = Dia.LUNES;
+        DiaDeLaSemana x = DiaDeLaSemana.LUNES;
 
         assertEquals("Lun", x.getAbbr());
 
-        assertTrue(Dia.LUNES.anteriorA(Dia.MARTES));
+        assertTrue(DiaDeLaSemana.LUNES.anteriorA(DiaDeLaSemana.MARTES));
 
-        assertEquals(Dia.MARTES, x.manana());
+        assertEquals(DiaDeLaSemana.MARTES, x.manana());
     }
 }

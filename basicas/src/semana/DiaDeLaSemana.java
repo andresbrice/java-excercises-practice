@@ -1,6 +1,6 @@
 package semana;
 
-public enum Dia {
+public enum DiaDeLaSemana {
 
   DOMINGO(0, "Dom"),
   LUNES(1, "Lun"),
@@ -14,7 +14,7 @@ public enum Dia {
   private final int indice;
   private String abbr;
 
-  Dia(int indice, String abbr) {
+  DiaDeLaSemana(int indice, String abbr) {
     this.abbr = abbr;
     this.indice = indice;
   }
@@ -23,11 +23,11 @@ public enum Dia {
     return this.abbr;
   }
 
-  public boolean anteriorA(Dia otro) {
+  public boolean anteriorA(DiaDeLaSemana otro) {
     return Integer.compare(indice, otro.indice) < 0;
   }
 
-  public Dia manana(){
+  public DiaDeLaSemana manana(){
     return switch (indice) {
       case 0 -> LUNES;
       case 1 -> MARTES;
